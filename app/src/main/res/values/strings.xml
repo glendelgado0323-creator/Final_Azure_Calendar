@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azure Calendar</string>
+
+    <!-- Google OAuth Client ID -->
+    <string name="google_web_client_id">278906261627-4q5bqb5d03v9cque9c1f9vvbtj1tu6nl.apps.googleusercontent.com</string>
+
+</resources>
